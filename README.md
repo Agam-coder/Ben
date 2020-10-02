@@ -12,6 +12,6 @@
 2 
 
 <p>This is a paragraph.</p>
-<p>This is another paragraph
+<p>This is another </p>
   
 <a href="https://www.w3schools.com">This is a link
